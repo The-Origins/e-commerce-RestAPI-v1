@@ -1,4 +1,4 @@
-# EcomerceV1-api-
+# RestApiv1
 My first fullstack project
 This is a nodejs and express js REST api
 you will need:
